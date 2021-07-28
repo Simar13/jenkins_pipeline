@@ -31,13 +31,11 @@
 				<extensions>true</extensions>
 				<configuration>
 			 <cloudHubDeployment>
-			 <username>iconic123</username>
-			    <server>cloudhub</server>
+			 <server>cloudhub</server>
 			    <environment>Sandbox</environment>
 			   <workers>1</workers>
 				  <workerType>MICRO</workerType>
 				   <applicationName>jenkins_pipeline</applicationName>
-				   <password>Sandhu@1989</password>
 				   <muleVersion>4.3.0</muleVersion>
 			  </cloudHubDeployment>
  </configuration>
